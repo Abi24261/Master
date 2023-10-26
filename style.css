@@ -279,11 +279,8 @@ header .navbar ul li a:hover{
         color:yellow;
     
 }
- section.Resume img{
-
-    width: 3prem;
-    height: 30rem;
-    padding: 10px 10px;
+ section.Resume{
+     color:yellow;
  }
 
  
